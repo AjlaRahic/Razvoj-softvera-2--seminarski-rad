@@ -1,0 +1,2621 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\database\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\database\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\database\\efoodcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\database\\efoodcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\database\\databaseseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\database\\databaseseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Migrations\\20251105113525_seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:eFood.Services\\Migrations\\20251105113525_seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Migrations\\20251105113253_seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:eFood.Services\\Migrations\\20251105113253_seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\database\\efoodcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\database\\efoodcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|solutionrelative:efood.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\database\\korisnici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\database\\korisnici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\database\\korisniciuloge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\database\\korisniciuloge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\uloge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\uloge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.api\\efood.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|solutionrelative:efood.api\\efood.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|solutionrelative:efood.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\priloziservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\priloziservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\narudzbaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\narudzbaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\gradservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\gradservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\ipriloziservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\ipriloziservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\drzavaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\drzavaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Migrations\\20251104131558_seedpodataka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:eFood.Services\\Migrations\\20251104131558_seedpodataka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\messages\\narudzbeactivated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\messages\\narudzbeactivated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\reports\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\reports\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\reports\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\reports\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\reports\\prodajapokorisniku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\reports\\prodajapokorisniku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\reports\\prometpokorisniku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\reports\\prometpokorisniku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\reports\\uplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\reports\\uplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\reports\\uplatepokorisniku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\reports\\uplatepokorisniku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\mapping\\profilemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\mapping\\profilemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\narudzbestatemachine\\basenarudzbastate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\narudzbestatemachine\\basenarudzbastate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\narudzbestatemachine\\initialnarudzbastate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\narudzbestatemachine\\initialnarudzbastate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\narudzbestatemachine\\draftnarudzbastate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\narudzbestatemachine\\draftnarudzbastate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\narudzbestatemachine\\activenarudzbastate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\narudzbestatemachine\\activenarudzbastate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.api\\controllers\\imailproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|solutionrelative:efood.api\\controllers\\imailproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.api\\controllers\\narudzbacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|solutionrelative:efood.api\\controllers\\narudzbacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.api\\controllers\\prilozicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|solutionrelative:efood.api\\controllers\\prilozicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\inarudzbaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\inarudzbaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.api\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|solutionrelative:efood.api\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.api\\helper\\loginhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|solutionrelative:efood.api\\helper\\loginhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.api\\controllers\\stavkenarudzbecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|solutionrelative:efood.api\\controllers\\stavkenarudzbecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.api\\controllers\\statusnarudzbecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|solutionrelative:efood.api\\controllers\\statusnarudzbecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\efood.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\efood.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\iuplataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\iuplataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.api\\controllers\\uplatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|solutionrelative:efood.api\\controllers\\uplatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.api\\controllers\\ulogacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|solutionrelative:efood.api\\controllers\\ulogacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.api\\controllers\\restorancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|solutionrelative:efood.api\\controllers\\restorancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.api\\controllers\\korisnikcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|solutionrelative:efood.api\\controllers\\korisnikcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.api\\controllers\\korpacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|solutionrelative:efood.api\\controllers\\korpacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.api\\controllers\\korisniciulogacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|solutionrelative:efood.api\\controllers\\korisniciulogacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.api\\controllers\\kategorijacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|solutionrelative:efood.api\\controllers\\kategorijacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.api\\controllers\\jelocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|solutionrelative:efood.api\\controllers\\jelocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.api\\controllers\\drzavacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|solutionrelative:efood.api\\controllers\\drzavacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.api\\controllers\\gradcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|solutionrelative:efood.api\\controllers\\gradcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.api\\controllers\\dojmovicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|solutionrelative:efood.api\\controllers\\dojmovicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.api\\controllers\\basecrudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|solutionrelative:efood.api\\controllers\\basecrudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|solutionrelative:efood.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\jeloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\jeloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\narudzbacheckoutrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\narudzbacheckoutrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\korpaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\korpaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\ikorpaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\ikorpaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\basecrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\basecrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\uplataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\uplataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\ulogaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\ulogaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\stavkenarudzbeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\stavkenarudzbeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\statusnarudzbeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\statusnarudzbeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\restoranservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\restoranservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\korisniciulogaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\korisniciulogaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\kategorijaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\kategorijaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\iulogaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\iulogaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\istavkenarudzbeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\istavkenarudzbeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\istatusnarudzbeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\istatusnarudzbeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\irestoranservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\irestoranservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\ikorisniciulogaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\ikorisniciulogaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\ikorisniciservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\ikorisniciservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\ikategorijaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\ikategorijaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\ijeloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\ijeloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\igradservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\igradservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\idrzavaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\idrzavaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\idojmoviservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\idojmoviservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\dojmoviservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\dojmoviservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\korisniciservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\korisniciservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.api\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|solutionrelative:efood.api\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\uplateupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\uplateupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\uplataupsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\uplataupsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\uplatainsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\uplatainsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\stavkenarudzbeupsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\stavkenarudzbeupsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\stavkenarudzbeupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\stavkenarudzbeupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\stavkenarudzbeinsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\stavkenarudzbeinsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\stavkainsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\stavkainsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\restoranupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\restoranupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\restoraninsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\restoraninsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\prilozisearchobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\prilozisearchobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\narudzbaupsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\narudzbaupsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\narudzbaupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\narudzbaupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\narudzbanotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\narudzbanotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\narudzbainsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\narudzbainsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\narudzbacheckoutstavkarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\narudzbacheckoutstavkarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\korpaupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\korpaupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\korpasearchobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\korpasearchobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\korpainsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\korpainsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\korisnikupsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\korisnikupsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\korisniksearchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\korisniksearchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\korisniciulogeupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\korisniciulogeupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\korisniciulogeinsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\korisniciulogeinsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\korisniciinsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\korisniciinsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\kategorijaupsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\kategorijaupsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\kategorijaupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\kategorijaupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\kategorijasearchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\kategorijasearchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\kategorijainsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\kategorijainsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\jeloupsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\jeloupsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\jeloupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\jeloupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\jeloinsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\jeloinsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\gradupsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\gradupsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\drzavaupsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\drzavaupsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\dojmoviupsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\dojmoviupsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\dojmoviinsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\dojmoviinsertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\requests\\checkoutfromcartrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\requests\\checkoutfromcartrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\searchobjects\\uplatasearchobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\searchobjects\\uplatasearchobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\searchobjects\\ulogesearchobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\searchobjects\\ulogesearchobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\searchobjects\\stavkenarudzbesearchobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\searchobjects\\stavkenarudzbesearchobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\searchobjects\\statusnarudzbesearchobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\searchobjects\\statusnarudzbesearchobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\searchobjects\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\searchobjects\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\searchobjects\\narudzbasearchobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\searchobjects\\narudzbasearchobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\searchobjects\\korisniciulogasearchobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\searchobjects\\korisniciulogasearchobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\searchobjects\\jelosearchobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\searchobjects\\jelosearchobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\searchobjects\\gradsearchobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\searchobjects\\gradsearchobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\searchobjects\\drzavasearchobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\searchobjects\\drzavasearchobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\searchobjects\\dojmovisearchobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\searchobjects\\dojmovisearchobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\searchobjects\\basesearchobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\searchobjects\\basesearchobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\drzava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\drzava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\efood.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\efood.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19E05F04-677D-4837-8FB2-CBD2FADF39F9}|eFood.API\\eFood.API.csproj|solutionrelative:efood.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\narudzba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\narudzba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\database\\uplata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\database\\uplata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\database\\uloge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\database\\uloge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\database\\stavkenarudzbe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\database\\stavkenarudzbe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\database\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\database\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\database\\restoran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\database\\restoran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\database\\prilozi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\database\\prilozi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\database\\narudzba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\database\\narudzba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\database\\korpa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\database\\korpa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\database\\kategorija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\database\\kategorija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\database\\jelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\database\\jelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\database\\grad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\database\\grad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\database\\drzava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\database\\drzava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\database\\dojmovi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\database\\dojmovi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\korpa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\korpa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\korisniciuloge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\korisniciuloge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\kategorija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\kategorija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\jelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\jelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\grad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\grad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\dojmovi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\dojmovi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\uplata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\uplata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\stavkenarudzbe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\stavkenarudzbe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\statusnarudzbe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\statusnarudzbe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\restoran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\restoran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\prilozi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\prilozi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\preporucenojelodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\preporucenojelodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.model\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E55CDD-A6FF-430F-9B18-E88E329F9A34}|eFood.Model\\eFood.Model.csproj|solutionrelative:efood.model\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|c:\\users\\home\\desktop\\razvoj softvera 2\\efood\\efood.services\\migrations\\20251105195540_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED86543-4F97-452A-826D-48DB57346415}|eFood.Services\\eFood.Services.csproj|solutionrelative:efood.services\\migrations\\20251105195540_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 161,
+              "Title": "20251105195540_initial.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Migrations\\20251105195540_initial.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\Migrations\\20251105195540_initial.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Migrations\\20251105195540_initial.cs",
+              "RelativeToolTip": "eFood.Services\\Migrations\\20251105195540_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:55:40.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20251105113253_seed.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Migrations\\20251105113253_seed.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\Migrations\\20251105113253_seed.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Migrations\\20251105113253_seed.cs",
+              "RelativeToolTip": "eFood.Services\\Migrations\\20251105113253_seed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:32:53.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\DBSeeder.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\Database\\DBSeeder.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\DBSeeder.cs",
+              "RelativeToolTip": "eFood.Services\\Database\\DBSeeder.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T21:52:21.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Program.cs",
+              "RelativeDocumentMoniker": "eFood.API\\Program.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Program.cs",
+              "RelativeToolTip": "eFood.API\\Program.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAuwHgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:43:07.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseSeed.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\DatabaseSeed.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\Database\\DatabaseSeed.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\DatabaseSeed.cs",
+              "RelativeToolTip": "eFood.Services\\Database\\DatabaseSeed.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAHcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T10:39:22.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EFoodContext.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\EFoodContext.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\Database\\EFoodContext.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\EFoodContext.cs",
+              "RelativeToolTip": "eFood.Services\\Database\\EFoodContext.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAAAPwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T12:45:12.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20251105113525_seed.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Migrations\\20251105113525_seed.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\Migrations\\20251105113525_seed.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Migrations\\20251105113525_seed.cs",
+              "RelativeToolTip": "eFood.Services\\Migrations\\20251105113525_seed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:35:25.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EFoodContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\EFoodContextFactory.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\Database\\EFoodContextFactory.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\EFoodContextFactory.cs",
+              "RelativeToolTip": "eFood.Services\\Database\\EFoodContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:22:04.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GradService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\GradService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\GradService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\GradService.cs",
+              "RelativeToolTip": "eFood.Services\\GradService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:50:20.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Korisnici.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\Korisnici.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\Database\\Korisnici.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\Korisnici.cs",
+              "RelativeToolTip": "eFood.Services\\Database\\Korisnici.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACIAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:47:07.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Uloge.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Uloge.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Uloge.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Uloge.cs",
+              "RelativeToolTip": "eFood.Model\\Uloge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:34:12.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KorisniciUloge.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\KorisniciUloge.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\Database\\KorisniciUloge.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\KorisniciUloge.cs",
+              "RelativeToolTip": "eFood.Services\\Database\\KorisniciUloge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:47:49.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DrzavaService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\DrzavaService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\DrzavaService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\DrzavaService.cs",
+              "RelativeToolTip": "eFood.Services\\DrzavaService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:49:01.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\appsettings.json",
+              "RelativeDocumentMoniker": "eFood.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\appsettings.json",
+              "RelativeToolTip": "eFood.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-30T11:53:51.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PriloziService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\PriloziService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\PriloziService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\PriloziService.cs",
+              "RelativeToolTip": "eFood.Services\\PriloziService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:56:02.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "eFood.API.csproj",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\eFood.API.csproj",
+              "RelativeDocumentMoniker": "eFood.API\\eFood.API.csproj",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\eFood.API.csproj",
+              "RelativeToolTip": "eFood.API\\eFood.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-28T12:37:27.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20251104131558_seedpodataka.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Migrations\\20251104131558_seedpodataka.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\Migrations\\20251104131558_seedpodataka.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Migrations\\20251104131558_seedpodataka.cs",
+              "RelativeToolTip": "eFood.Services\\Migrations\\20251104131558_seedpodataka.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:15:59.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NarudzbaService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\NarudzbaService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\NarudzbaService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\NarudzbaService.cs",
+              "RelativeToolTip": "eFood.Services\\NarudzbaService.cs",
+              "ViewState": "AgIAAJQBAAAAAAAAAAAAAJ0BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:32:45.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NarudzbeActivated.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Messages\\NarudzbeActivated.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Messages\\NarudzbeActivated.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Messages\\NarudzbeActivated.cs",
+              "RelativeToolTip": "eFood.Model\\Messages\\NarudzbeActivated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T12:27:06.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPriloziService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\IPriloziService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\IPriloziService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\IPriloziService.cs",
+              "RelativeToolTip": "eFood.Services\\IPriloziService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T14:21:26.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Reports\\ReportService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\Reports\\ReportService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Reports\\ReportService.cs",
+              "RelativeToolTip": "eFood.Services\\Reports\\ReportService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:47:56.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Reports\\IReportService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\Reports\\IReportService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Reports\\IReportService.cs",
+              "RelativeToolTip": "eFood.Services\\Reports\\IReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:45:43.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProdajaPoKorisniku.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Reports\\ProdajaPoKorisniku.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\Reports\\ProdajaPoKorisniku.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Reports\\ProdajaPoKorisniku.cs",
+              "RelativeToolTip": "eFood.Services\\Reports\\ProdajaPoKorisniku.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:51:27.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PrometPoKorisniku.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Reports\\PrometPoKorisniku.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\Reports\\PrometPoKorisniku.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Reports\\PrometPoKorisniku.cs",
+              "RelativeToolTip": "eFood.Services\\Reports\\PrometPoKorisniku.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:50:54.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Uplate.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Reports\\Uplate.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\Reports\\Uplate.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Reports\\Uplate.cs",
+              "RelativeToolTip": "eFood.Services\\Reports\\Uplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:47:23.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UplatePoKorisniku.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Reports\\UplatePoKorisniku.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\Reports\\UplatePoKorisniku.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Reports\\UplatePoKorisniku.cs",
+              "RelativeToolTip": "eFood.Services\\Reports\\UplatePoKorisniku.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:46:21.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProfileMapping.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Mapping\\ProfileMapping.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\Mapping\\ProfileMapping.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Mapping\\ProfileMapping.cs",
+              "RelativeToolTip": "eFood.Services\\Mapping\\ProfileMapping.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:41:34.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "InitialNarudzbaState.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\NarudzbeStateMachine\\InitialNarudzbaState.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\NarudzbeStateMachine\\InitialNarudzbaState.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\NarudzbeStateMachine\\InitialNarudzbaState.cs",
+              "RelativeToolTip": "eFood.Services\\NarudzbeStateMachine\\InitialNarudzbaState.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA4wA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:03:45.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BaseNarudzbaState.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\NarudzbeStateMachine\\BaseNarudzbaState.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\NarudzbeStateMachine\\BaseNarudzbaState.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\NarudzbeStateMachine\\BaseNarudzbaState.cs",
+              "RelativeToolTip": "eFood.Services\\NarudzbeStateMachine\\BaseNarudzbaState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:57:50.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DraftNarudzbaState.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\NarudzbeStateMachine\\DraftNarudzbaState.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\NarudzbeStateMachine\\DraftNarudzbaState.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\NarudzbeStateMachine\\DraftNarudzbaState.cs",
+              "RelativeToolTip": "eFood.Services\\NarudzbeStateMachine\\DraftNarudzbaState.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:02:12.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ActiveNarudzbaState.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\NarudzbeStateMachine\\ActiveNarudzbaState.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\NarudzbeStateMachine\\ActiveNarudzbaState.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\NarudzbeStateMachine\\ActiveNarudzbaState.cs",
+              "RelativeToolTip": "eFood.Services\\NarudzbeStateMachine\\ActiveNarudzbaState.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:01:09.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IMailProducer.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\IMailProducer.cs",
+              "RelativeDocumentMoniker": "eFood.API\\Controllers\\IMailProducer.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\IMailProducer.cs",
+              "RelativeToolTip": "eFood.API\\Controllers\\IMailProducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T14:32:13.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "NarudzbaController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\NarudzbaController.cs",
+              "RelativeDocumentMoniker": "eFood.API\\Controllers\\NarudzbaController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\NarudzbaController.cs",
+              "RelativeToolTip": "eFood.API\\Controllers\\NarudzbaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T09:09:26.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "INarudzbaService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\INarudzbaService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\INarudzbaService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\INarudzbaService.cs",
+              "RelativeToolTip": "eFood.Services\\INarudzbaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T09:31:04.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BasicAuthenticationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\BasicAuthenticationHandler.cs",
+              "RelativeDocumentMoniker": "eFood.API\\BasicAuthenticationHandler.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\BasicAuthenticationHandler.cs",
+              "RelativeToolTip": "eFood.API\\BasicAuthenticationHandler.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwDoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T12:25:45.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoginHelper.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Helper\\LoginHelper.cs",
+              "RelativeDocumentMoniker": "eFood.API\\Helper\\LoginHelper.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Helper\\LoginHelper.cs",
+              "RelativeToolTip": "eFood.API\\Helper\\LoginHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T12:25:01.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PriloziController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\PriloziController.cs",
+              "RelativeDocumentMoniker": "eFood.API\\Controllers\\PriloziController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\PriloziController.cs",
+              "RelativeToolTip": "eFood.API\\Controllers\\PriloziController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T09:13:35.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "StavkeNarudzbeController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\StavkeNarudzbeController.cs",
+              "RelativeDocumentMoniker": "eFood.API\\Controllers\\StavkeNarudzbeController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\StavkeNarudzbeController.cs",
+              "RelativeToolTip": "eFood.API\\Controllers\\StavkeNarudzbeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T09:28:20.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StatusNarudzbeController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\StatusNarudzbeController.cs",
+              "RelativeDocumentMoniker": "eFood.API\\Controllers\\StatusNarudzbeController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\StatusNarudzbeController.cs",
+              "RelativeToolTip": "eFood.API\\Controllers\\StatusNarudzbeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T09:20:38.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IUplataService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\IUplataService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\IUplataService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\IUplataService.cs",
+              "RelativeToolTip": "eFood.Services\\IUplataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:28:55.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "eFood.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\eFood.Services.csproj",
+              "RelativeDocumentMoniker": "eFood.Services\\eFood.Services.csproj",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\eFood.Services.csproj",
+              "RelativeToolTip": "eFood.Services\\eFood.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-28T11:45:00.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UplataController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\UplataController.cs",
+              "RelativeDocumentMoniker": "eFood.API\\Controllers\\UplataController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\UplataController.cs",
+              "RelativeToolTip": "eFood.API\\Controllers\\UplataController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T09:20:01.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UlogaController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\UlogaController.cs",
+              "RelativeDocumentMoniker": "eFood.API\\Controllers\\UlogaController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\UlogaController.cs",
+              "RelativeToolTip": "eFood.API\\Controllers\\UlogaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T09:19:19.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RestoranController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\RestoranController.cs",
+              "RelativeDocumentMoniker": "eFood.API\\Controllers\\RestoranController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\RestoranController.cs",
+              "RelativeToolTip": "eFood.API\\Controllers\\RestoranController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T09:18:04.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "KorisnikController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\KorisnikController.cs",
+              "RelativeDocumentMoniker": "eFood.API\\Controllers\\KorisnikController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\KorisnikController.cs",
+              "RelativeToolTip": "eFood.API\\Controllers\\KorisnikController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T09:02:37.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "KorpaController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\KorpaController.cs",
+              "RelativeDocumentMoniker": "eFood.API\\Controllers\\KorpaController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\KorpaController.cs",
+              "RelativeToolTip": "eFood.API\\Controllers\\KorpaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T09:05:49.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "KorisniciUlogaController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\KorisniciUlogaController.cs",
+              "RelativeDocumentMoniker": "eFood.API\\Controllers\\KorisniciUlogaController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\KorisniciUlogaController.cs",
+              "RelativeToolTip": "eFood.API\\Controllers\\KorisniciUlogaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T09:04:22.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "KategorijaController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\KategorijaController.cs",
+              "RelativeDocumentMoniker": "eFood.API\\Controllers\\KategorijaController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\KategorijaController.cs",
+              "RelativeToolTip": "eFood.API\\Controllers\\KategorijaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T08:56:45.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "JeloController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\JeloController.cs",
+              "RelativeDocumentMoniker": "eFood.API\\Controllers\\JeloController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\JeloController.cs",
+              "RelativeToolTip": "eFood.API\\Controllers\\JeloController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T08:55:59.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DrzavaController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\DrzavaController.cs",
+              "RelativeDocumentMoniker": "eFood.API\\Controllers\\DrzavaController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\DrzavaController.cs",
+              "RelativeToolTip": "eFood.API\\Controllers\\DrzavaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T08:54:52.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "GradController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\GradController.cs",
+              "RelativeDocumentMoniker": "eFood.API\\Controllers\\GradController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\GradController.cs",
+              "RelativeToolTip": "eFood.API\\Controllers\\GradController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T08:53:19.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DojmoviController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\DojmoviController.cs",
+              "RelativeDocumentMoniker": "eFood.API\\Controllers\\DojmoviController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\DojmoviController.cs",
+              "RelativeToolTip": "eFood.API\\Controllers\\DojmoviController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T08:51:58.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "BaseCRUDController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\BaseCRUDController.cs",
+              "RelativeDocumentMoniker": "eFood.API\\Controllers\\BaseCRUDController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\BaseCRUDController.cs",
+              "RelativeToolTip": "eFood.API\\Controllers\\BaseCRUDController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T08:35:03.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "eFood.API\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "eFood.API\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T08:32:17.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "UlogaService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\UlogaService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\UlogaService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\UlogaService.cs",
+              "RelativeToolTip": "eFood.Services\\UlogaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:37:11.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "JeloService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\JeloService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\JeloService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\JeloService.cs",
+              "RelativeToolTip": "eFood.Services\\JeloService.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAqwNoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:29:32.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "KorpaService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\KorpaService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\KorpaService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\KorpaService.cs",
+              "RelativeToolTip": "eFood.Services\\KorpaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:32:13.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UplataService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\UplataService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\UplataService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\UplataService.cs",
+              "RelativeToolTip": "eFood.Services\\UplataService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAIBJwAwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:37:52.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IKorpaService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\IKorpaService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\IKorpaService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\IKorpaService.cs",
+              "RelativeToolTip": "eFood.Services\\IKorpaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:46:04.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "BaseCRUDService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\BaseCRUDService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\BaseCRUDService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\BaseCRUDService.cs",
+              "RelativeToolTip": "eFood.Services\\BaseCRUDService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:58:48.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "NarudzbaCheckoutRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\NarudzbaCheckoutRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\NarudzbaCheckoutRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\NarudzbaCheckoutRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\NarudzbaCheckoutRequest.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwA0AAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:41:29.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "StavkeNarudzbeService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\StavkeNarudzbeService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\StavkeNarudzbeService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\StavkeNarudzbeService.cs",
+              "RelativeToolTip": "eFood.Services\\StavkeNarudzbeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAADIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:35:31.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "StatusNarudzbeService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\StatusNarudzbeService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\StatusNarudzbeService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\StatusNarudzbeService.cs",
+              "RelativeToolTip": "eFood.Services\\StatusNarudzbeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:34:55.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "RestoranService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\RestoranService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\RestoranService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\RestoranService.cs",
+              "RelativeToolTip": "eFood.Services\\RestoranService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:34:16.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "KorisniciUlogaService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\KorisniciUlogaService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\KorisniciUlogaService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\KorisniciUlogaService.cs",
+              "RelativeToolTip": "eFood.Services\\KorisniciUlogaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:31:43.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "KategorijaService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\KategorijaService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\KategorijaService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\KategorijaService.cs",
+              "RelativeToolTip": "eFood.Services\\KategorijaService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIBQwA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:30:18.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IUlogaService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\IUlogaService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\IUlogaService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\IUlogaService.cs",
+              "RelativeToolTip": "eFood.Services\\IUlogaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:28:36.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IStavkeNarudzbeService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\IStavkeNarudzbeService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\IStavkeNarudzbeService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\IStavkeNarudzbeService.cs",
+              "RelativeToolTip": "eFood.Services\\IStavkeNarudzbeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:27:50.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IStatusNarudzbeService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\IStatusNarudzbeService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\IStatusNarudzbeService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\IStatusNarudzbeService.cs",
+              "RelativeToolTip": "eFood.Services\\IStatusNarudzbeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:27:21.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IRestoranService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\IRestoranService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\IRestoranService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\IRestoranService.cs",
+              "RelativeToolTip": "eFood.Services\\IRestoranService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:26:40.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "IKorisniciUlogaService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\IKorisniciUlogaService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\IKorisniciUlogaService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\IKorisniciUlogaService.cs",
+              "RelativeToolTip": "eFood.Services\\IKorisniciUlogaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:25:46.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IKorisniciService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\IKorisniciService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\IKorisniciService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\IKorisniciService.cs",
+              "RelativeToolTip": "eFood.Services\\IKorisniciService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:25:10.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IKategorijaService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\IKategorijaService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\IKategorijaService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\IKategorijaService.cs",
+              "RelativeToolTip": "eFood.Services\\IKategorijaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:24:33.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IJeloService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\IJeloService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\IJeloService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\IJeloService.cs",
+              "RelativeToolTip": "eFood.Services\\IJeloService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:23:58.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "IGradService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\IGradService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\IGradService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\IGradService.cs",
+              "RelativeToolTip": "eFood.Services\\IGradService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:23:30.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "IDrzavaService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\IDrzavaService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\IDrzavaService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\IDrzavaService.cs",
+              "RelativeToolTip": "eFood.Services\\IDrzavaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:22:52.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ICRUDService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\ICRUDService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\ICRUDService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\ICRUDService.cs",
+              "RelativeToolTip": "eFood.Services\\ICRUDService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:22:18.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\IService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\IService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\IService.cs",
+              "RelativeToolTip": "eFood.Services\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:21:44.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "IDojmoviService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\IDojmoviService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\IDojmoviService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\IDojmoviService.cs",
+              "RelativeToolTip": "eFood.Services\\IDojmoviService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:06:48.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "DojmoviService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\DojmoviService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\DojmoviService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\DojmoviService.cs",
+              "RelativeToolTip": "eFood.Services\\DojmoviService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:05:55.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "KorisniciService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\KorisniciService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\KorisniciService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\KorisniciService.cs",
+              "RelativeToolTip": "eFood.Services\\KorisniciService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAACfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:57:10.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "PasswordHelper.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\PasswordHelper.cs",
+              "RelativeDocumentMoniker": "eFood.API\\PasswordHelper.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\PasswordHelper.cs",
+              "RelativeToolTip": "eFood.API\\PasswordHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:03:31.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\BaseService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\BaseService.cs",
+              "RelativeToolTip": "eFood.Services\\BaseService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAEBUwA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:00:03.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "StavkeNarudzbeUpdateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\StavkeNarudzbeUpdateRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\StavkeNarudzbeUpdateRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\StavkeNarudzbeUpdateRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\StavkeNarudzbeUpdateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:48:07.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "StavkeNarudzbeUpsertRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\StavkeNarudzbeUpsertRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\StavkeNarudzbeUpsertRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\StavkeNarudzbeUpsertRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\StavkeNarudzbeUpsertRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:48:33.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "UplataInsertRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\UplataInsertRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\UplataInsertRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\UplataInsertRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\UplataInsertRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:48:59.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "UplataUpsertRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\UplataUpsertRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\UplataUpsertRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\UplataUpsertRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\UplataUpsertRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:49:34.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "UplateUpdateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\UplateUpdateRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\UplateUpdateRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\UplateUpdateRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\UplateUpdateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:49:56.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "StavkeNarudzbeInsertRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\StavkeNarudzbeInsertRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\StavkeNarudzbeInsertRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\StavkeNarudzbeInsertRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\StavkeNarudzbeInsertRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:47:38.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "StavkaInsertRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\StavkaInsertRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\StavkaInsertRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\StavkaInsertRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\StavkaInsertRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:47:05.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "RestoranUpdateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\RestoranUpdateRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\RestoranUpdateRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\RestoranUpdateRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\RestoranUpdateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:46:02.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "RestoranInsertRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\RestoranInsertRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\RestoranInsertRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\RestoranInsertRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\RestoranInsertRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:45:11.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "PriloziSearchObject.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\PriloziSearchObject.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\PriloziSearchObject.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\PriloziSearchObject.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\PriloziSearchObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:24:35.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "NarudzbaUpsertRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\NarudzbaUpsertRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\NarudzbaUpsertRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\NarudzbaUpsertRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\NarudzbaUpsertRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:44:29.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "NarudzbaUpdateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\NarudzbaUpdateRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\NarudzbaUpdateRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\NarudzbaUpdateRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\NarudzbaUpdateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:43:38.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "NarudzbaNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\NarudzbaNotifier.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\NarudzbaNotifier.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\NarudzbaNotifier.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\NarudzbaNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:43:08.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "NarudzbaInsertRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\NarudzbaInsertRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\NarudzbaInsertRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\NarudzbaInsertRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\NarudzbaInsertRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:42:42.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "NarudzbaCheckoutStavkaRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\NarudzbaCheckoutStavkaRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\NarudzbaCheckoutStavkaRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\NarudzbaCheckoutStavkaRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\NarudzbaCheckoutStavkaRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:42:01.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "KorpaUpdateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\KorpaUpdateRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\KorpaUpdateRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\KorpaUpdateRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\KorpaUpdateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:24:08.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "KorpaSearchObject.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\KorpaSearchObject.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\KorpaSearchObject.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\KorpaSearchObject.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\KorpaSearchObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:23:24.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "KorpaInsertRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\KorpaInsertRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\KorpaInsertRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\KorpaInsertRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\KorpaInsertRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:23:01.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "KorisnikUpsertRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\KorisnikUpsertRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\KorisnikUpsertRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\KorisnikUpsertRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\KorisnikUpsertRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:22:23.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "KorisnikSearchrequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\KorisnikSearchrequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\KorisnikSearchrequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\KorisnikSearchrequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\KorisnikSearchrequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:21:49.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "KorisniciUlogeUpdateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\KorisniciUlogeUpdateRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\KorisniciUlogeUpdateRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\KorisniciUlogeUpdateRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\KorisniciUlogeUpdateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:20:41.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "KorisniciUlogeInsertRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\KorisniciUlogeInsertRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\KorisniciUlogeInsertRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\KorisniciUlogeInsertRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\KorisniciUlogeInsertRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:20:16.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "KorisniciInsertRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\KorisniciInsertRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\KorisniciInsertRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\KorisniciInsertRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\KorisniciInsertRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:21:12.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "KategorijaUpsertRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\KategorijaUpsertRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\KategorijaUpsertRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\KategorijaUpsertRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\KategorijaUpsertRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:19:50.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "KategorijaUpdateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\KategorijaUpdateRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\KategorijaUpdateRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\KategorijaUpdateRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\KategorijaUpdateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:19:14.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "KategorijaSearchRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\KategorijaSearchRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\KategorijaSearchRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\KategorijaSearchRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\KategorijaSearchRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:17:59.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "KategorijaInsertRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\KategorijaInsertRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\KategorijaInsertRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\KategorijaInsertRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\KategorijaInsertRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:17:28.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "JeloUpsertRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\JeloUpsertRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\JeloUpsertRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\JeloUpsertRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\JeloUpsertRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:16:58.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "JeloUpdateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\JeloUpdateRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\JeloUpdateRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\JeloUpdateRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\JeloUpdateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:16:33.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "JeloInsertRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\JeloInsertRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\JeloInsertRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\JeloInsertRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\JeloInsertRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:16:05.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "GradUpsertrequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\GradUpsertrequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\GradUpsertrequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\GradUpsertrequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\GradUpsertrequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:15:30.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "DrzavaUpsertRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\DrzavaUpsertRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\DrzavaUpsertRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\DrzavaUpsertRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\DrzavaUpsertRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:14:40.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "DojmoviUpsertRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\DojmoviUpsertRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\DojmoviUpsertRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\DojmoviUpsertRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\DojmoviUpsertRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:13:11.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "DojmoviInsertRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\DojmoviInsertRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\DojmoviInsertRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\DojmoviInsertRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\DojmoviInsertRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:12:46.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "CheckoutFromCartRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\CheckoutFromCartRequest.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Requests\\CheckoutFromCartRequest.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Requests\\CheckoutFromCartRequest.cs",
+              "RelativeToolTip": "eFood.Model\\Requests\\CheckoutFromCartRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:12:20.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "UplataSearchObject.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\SearchObjects\\UplataSearchObject.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\SearchObjects\\UplataSearchObject.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\SearchObjects\\UplataSearchObject.cs",
+              "RelativeToolTip": "eFood.Model\\SearchObjects\\UplataSearchObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:11:13.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "UlogeSearchObject.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\SearchObjects\\UlogeSearchObject.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\SearchObjects\\UlogeSearchObject.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\SearchObjects\\UlogeSearchObject.cs",
+              "RelativeToolTip": "eFood.Model\\SearchObjects\\UlogeSearchObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:10:46.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "StavkeNarudzbeSearchObject.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\SearchObjects\\StavkeNarudzbeSearchObject.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\SearchObjects\\StavkeNarudzbeSearchObject.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\SearchObjects\\StavkeNarudzbeSearchObject.cs",
+              "RelativeToolTip": "eFood.Model\\SearchObjects\\StavkeNarudzbeSearchObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:10:23.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "StatusNarudzbeSearchObject.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\SearchObjects\\StatusNarudzbeSearchObject.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\SearchObjects\\StatusNarudzbeSearchObject.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\SearchObjects\\StatusNarudzbeSearchObject.cs",
+              "RelativeToolTip": "eFood.Model\\SearchObjects\\StatusNarudzbeSearchObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:09:54.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "PasswordHelper.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\SearchObjects\\PasswordHelper.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\SearchObjects\\PasswordHelper.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\SearchObjects\\PasswordHelper.cs",
+              "RelativeToolTip": "eFood.Model\\SearchObjects\\PasswordHelper.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:09:27.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "NarudzbaSearchObject.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\SearchObjects\\NarudzbaSearchObject.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\SearchObjects\\NarudzbaSearchObject.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\SearchObjects\\NarudzbaSearchObject.cs",
+              "RelativeToolTip": "eFood.Model\\SearchObjects\\NarudzbaSearchObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:09:05.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "KorisniciUlogaSearchObject.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\SearchObjects\\KorisniciUlogaSearchObject.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\SearchObjects\\KorisniciUlogaSearchObject.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\SearchObjects\\KorisniciUlogaSearchObject.cs",
+              "RelativeToolTip": "eFood.Model\\SearchObjects\\KorisniciUlogaSearchObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:08:28.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "JeloSearchObject.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\SearchObjects\\JeloSearchObject.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\SearchObjects\\JeloSearchObject.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\SearchObjects\\JeloSearchObject.cs",
+              "RelativeToolTip": "eFood.Model\\SearchObjects\\JeloSearchObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:07:18.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "GradSearchObject.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\SearchObjects\\GradSearchObject.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\SearchObjects\\GradSearchObject.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\SearchObjects\\GradSearchObject.cs",
+              "RelativeToolTip": "eFood.Model\\SearchObjects\\GradSearchObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:06:52.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "DrzavaSearchObject.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\SearchObjects\\DrzavaSearchObject.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\SearchObjects\\DrzavaSearchObject.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\SearchObjects\\DrzavaSearchObject.cs",
+              "RelativeToolTip": "eFood.Model\\SearchObjects\\DrzavaSearchObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:06:24.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "DojmoviSearchObject.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\SearchObjects\\DojmoviSearchObject.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\SearchObjects\\DojmoviSearchObject.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\SearchObjects\\DojmoviSearchObject.cs",
+              "RelativeToolTip": "eFood.Model\\SearchObjects\\DojmoviSearchObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:06:02.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "BaseSearchObject.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\SearchObjects\\BaseSearchObject.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\SearchObjects\\BaseSearchObject.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\SearchObjects\\BaseSearchObject.cs",
+              "RelativeToolTip": "eFood.Model\\SearchObjects\\BaseSearchObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:05:32.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "eFood.Model.csproj",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\eFood.Model.csproj",
+              "RelativeDocumentMoniker": "eFood.Model\\eFood.Model.csproj",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\eFood.Model.csproj",
+              "RelativeToolTip": "eFood.Model\\eFood.Model.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-30T11:18:13.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "Drzava.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Drzava.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Drzava.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Drzava.cs",
+              "RelativeToolTip": "eFood.Model\\Drzava.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:26:32.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "eFood.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "eFood.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-30T11:53:10.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 133,
+              "Title": "Uplata.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\Uplata.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\Database\\Uplata.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\Uplata.cs",
+              "RelativeToolTip": "eFood.Services\\Database\\Uplata.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBQwAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:50:47.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "Narudzba.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Narudzba.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Narudzba.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Narudzba.cs",
+              "RelativeToolTip": "eFood.Model\\Narudzba.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvw0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:30:08.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 134,
+              "Title": "Uloge.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\Uloge.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\Database\\Uloge.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\Uloge.cs",
+              "RelativeToolTip": "eFood.Services\\Database\\Uloge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:50:17.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 135,
+              "Title": "StavkeNarudzbe.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\StavkeNarudzbe.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\Database\\StavkeNarudzbe.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\StavkeNarudzbe.cs",
+              "RelativeToolTip": "eFood.Services\\Database\\StavkeNarudzbe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:49:57.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 136,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\Status.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\Database\\Status.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\Status.cs",
+              "RelativeToolTip": "eFood.Services\\Database\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:49:38.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 137,
+              "Title": "Restoran.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\Restoran.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\Database\\Restoran.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\Restoran.cs",
+              "RelativeToolTip": "eFood.Services\\Database\\Restoran.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:49:19.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 138,
+              "Title": "Prilozi.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\Prilozi.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\Database\\Prilozi.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\Prilozi.cs",
+              "RelativeToolTip": "eFood.Services\\Database\\Prilozi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:48:58.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 139,
+              "Title": "Narudzba.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\Narudzba.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\Database\\Narudzba.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\Narudzba.cs",
+              "RelativeToolTip": "eFood.Services\\Database\\Narudzba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:48:36.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 140,
+              "Title": "Korpa.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\Korpa.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\Database\\Korpa.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\Korpa.cs",
+              "RelativeToolTip": "eFood.Services\\Database\\Korpa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:48:09.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 141,
+              "Title": "Kategorija.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\Kategorija.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\Database\\Kategorija.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\Kategorija.cs",
+              "RelativeToolTip": "eFood.Services\\Database\\Kategorija.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:46:39.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 142,
+              "Title": "Jelo.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\Jelo.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\Database\\Jelo.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\Jelo.cs",
+              "RelativeToolTip": "eFood.Services\\Database\\Jelo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBQwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:46:01.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 143,
+              "Title": "Grad.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\Grad.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\Database\\Grad.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\Grad.cs",
+              "RelativeToolTip": "eFood.Services\\Database\\Grad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:45:40.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 145,
+              "Title": "Drzava.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\Drzava.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\Database\\Drzava.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\Drzava.cs",
+              "RelativeToolTip": "eFood.Services\\Database\\Drzava.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:44:29.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 146,
+              "Title": "Dojmovi.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\Dojmovi.cs",
+              "RelativeDocumentMoniker": "eFood.Services\\Database\\Dojmovi.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Services\\Database\\Dojmovi.cs",
+              "RelativeToolTip": "eFood.Services\\Database\\Dojmovi.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIBQwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:43:50.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 144,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\PagedResult.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\PagedResult.cs",
+              "RelativeToolTip": "eFood.Model\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:30:37.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 151,
+              "Title": "Jelo.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Jelo.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Jelo.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Jelo.cs",
+              "RelativeToolTip": "eFood.Model\\Jelo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:27:24.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 152,
+              "Title": "Grad.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Grad.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Grad.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Grad.cs",
+              "RelativeToolTip": "eFood.Model\\Grad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:26:54.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 153,
+              "Title": "Dojmovi.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Dojmovi.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Dojmovi.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Dojmovi.cs",
+              "RelativeToolTip": "eFood.Model\\Dojmovi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:18:57.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 149,
+              "Title": "KorisniciUloge.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\KorisniciUloge.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\KorisniciUloge.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\KorisniciUloge.cs",
+              "RelativeToolTip": "eFood.Model\\KorisniciUloge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:28:36.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 150,
+              "Title": "Kategorija.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Kategorija.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Kategorija.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Kategorija.cs",
+              "RelativeToolTip": "eFood.Model\\Kategorija.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:27:58.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 148,
+              "Title": "Korisnik.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Korisnik.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Korisnik.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Korisnik.cs",
+              "RelativeToolTip": "eFood.Model\\Korisnik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:29:10.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 147,
+              "Title": "Korpa.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Korpa.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Korpa.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Korpa.cs",
+              "RelativeToolTip": "eFood.Model\\Korpa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:29:38.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 154,
+              "Title": "Uplata.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Uplata.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Uplata.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Uplata.cs",
+              "RelativeToolTip": "eFood.Model\\Uplata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:34:38.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 159,
+              "Title": "PreporucenoJeloDto.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\PreporucenoJeloDto.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\PreporucenoJeloDto.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\PreporucenoJeloDto.cs",
+              "RelativeToolTip": "eFood.Model\\PreporucenoJeloDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:31:11.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 158,
+              "Title": "Prilozi.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Prilozi.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Prilozi.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Prilozi.cs",
+              "RelativeToolTip": "eFood.Model\\Prilozi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:31:59.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 157,
+              "Title": "Restoran.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Restoran.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\Restoran.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\Restoran.cs",
+              "RelativeToolTip": "eFood.Model\\Restoran.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:32:29.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 156,
+              "Title": "StatusNarudzbe.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\StatusNarudzbe.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\StatusNarudzbe.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\StatusNarudzbe.cs",
+              "RelativeToolTip": "eFood.Model\\StatusNarudzbe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:33:00.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 155,
+              "Title": "StavkeNarudzbe.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\StavkeNarudzbe.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\StavkeNarudzbe.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\StavkeNarudzbe.cs",
+              "RelativeToolTip": "eFood.Model\\StavkeNarudzbe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:33:25.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 160,
+              "Title": "ConflictException.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\ConflictException.cs",
+              "RelativeDocumentMoniker": "eFood.Model\\ConflictException.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Razvoj softvera 2\\eFood\\eFood.Model\\ConflictException.cs",
+              "RelativeToolTip": "eFood.Model\\ConflictException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T13:17:27.832Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

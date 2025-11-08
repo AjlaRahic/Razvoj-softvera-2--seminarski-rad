@@ -1,0 +1,17 @@
+C:\Users\HOME\Desktop\Razvoj softvera 2\eFood\eFood.Services\bin\Debug\net8.0\eFood.Services.deps.json
+C:\Users\HOME\Desktop\Razvoj softvera 2\eFood\eFood.Services\bin\Debug\net8.0\eFood.Services.dll
+C:\Users\HOME\Desktop\Razvoj softvera 2\eFood\eFood.Services\bin\Debug\net8.0\eFood.Services.pdb
+C:\Users\HOME\Desktop\Razvoj softvera 2\eFood\eFood.Services\obj\Debug\net8.0\eFood.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Razvoj softvera 2\eFood\eFood.Services\obj\Debug\net8.0\eFood.Services.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Razvoj softvera 2\eFood\eFood.Services\obj\Debug\net8.0\eFood.Services.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Razvoj softvera 2\eFood\eFood.Services\obj\Debug\net8.0\eFood.Services.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Razvoj softvera 2\eFood\eFood.Services\obj\Debug\net8.0\eFood.Services.dll
+C:\Users\HOME\Desktop\Razvoj softvera 2\eFood\eFood.Services\obj\Debug\net8.0\refint\eFood.Services.dll
+C:\Users\HOME\Desktop\Razvoj softvera 2\eFood\eFood.Services\obj\Debug\net8.0\eFood.Services.pdb
+C:\Users\HOME\Desktop\Razvoj softvera 2\eFood\eFood.Services\obj\Debug\net8.0\ref\eFood.Services.dll
+C:\Users\HOME\Desktop\Razvoj softvera 2\eFood\eFood.Services\bin\Debug\net8.0\eFood.Services.runtimeconfig.json
+C:\Users\HOME\Desktop\Razvoj softvera 2\eFood\eFood.Services\obj\Debug\net8.0\eFood.Services.genruntimeconfig.cache
+C:\Users\HOME\Desktop\Razvoj softvera 2\eFood\eFood.Services\obj\Debug\net8.0\eFood.Services.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\Razvoj softvera 2\eFood\eFood.Services\bin\Debug\net8.0\eFood.Model.dll
+C:\Users\HOME\Desktop\Razvoj softvera 2\eFood\eFood.Services\bin\Debug\net8.0\eFood.Model.pdb
+C:\Users\HOME\Desktop\Razvoj softvera 2\eFood\eFood.Services\obj\Debug\net8.0\eFood.Se.FEEB74B4.Up2Date

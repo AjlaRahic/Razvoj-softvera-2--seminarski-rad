@@ -1,0 +1,15 @@
+﻿using eFood.Model.Requests;
+using eFood.Model.SearchObjects;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace eFood.Services
+{
+    public interface IStavkeNarudzbeService : ICRUDService<Model.StavkeNarudzbe, StavkeNarudzbeSearchObject, StavkeNarudzbeInsertRequest, StavkeNarudzbeUpdateRequest>
+    {
+        //Task<List<Model.StavkeNarudzbe>> InsertAsync(List<StavkeNarudzbeUpsertRequest> request);
+    }
+}

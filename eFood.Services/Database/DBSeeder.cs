@@ -1,0 +1,629 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Security.Cryptography;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace eFood.Services.Database
+{
+    public class DBSeeder
+    {
+      
+             public static void SeedDatabase(EFoodContext context)
+        {
+            Console.WriteLine(">>> Pokrenut DB SEED <<<");
+             SeedPrilozi(context);
+            SeedStatusNarudzbe(context);
+            SeedKategorije(context);
+            
+            SeedUloge(context);
+            SeedDrzave(context);
+            SeedGradove(context);
+            SeedRestorani(context);
+            SeedJela(context);
+            
+
+            SeedKorisnici(context);
+            Console.WriteLine(">>> Dodani korisnici <<<");
+
+            SeedKorisniciUloge(context);
+            Console.WriteLine(">>> dodane korisnik uloge <<<");
+            
+            SeedNarudzbe(context);
+            SeedStavkeNarudzbe(context);
+            SeedDojmovi(context);
+            SeedKorpe(context);
+        }
+        private static void SeedKorisnici(EFoodContext context)
+        {
+            if (!context.Korisnicis.Any())
+            {
+                var korisnici = new[]
+                {
+
+                new Korisnici
+                {
+                    Ime = "Almedina",
+                    Prezime = "Rahic",
+                    KorisnickoIme = "admin",
+                    Telefon = "063455778",
+                    Email = "almedinar@gmail.com",
+                    LozinkaSalt = GenerateSalt()
+
+                },
+                new Korisnici
+                {
+                    Ime = "Lejla",
+                    Prezime = "Boškailo",
+                    KorisnickoIme = "mobile",
+                    Telefon = "061456708",
+                    Email = "lejla@gmail.com",
+                    LozinkaSalt = GenerateSalt()
+                },
+                new Korisnici
+                {
+                    Ime = "Ajla",
+                    Prezime = "Rahic",
+                    KorisnickoIme = "korisnik",
+                    Telefon = "0611234328",
+                    Email = "ajla@gmail.com",
+                    LozinkaSalt = GenerateSalt()
+
+                }
+            };
+
+                foreach (var k in korisnici)
+                {
+                    k.LozinkaHash = GenerateHash(k.LozinkaSalt, "test");
+                    context.Korisnicis.Add(k);
+                }
+
+                context.SaveChanges();
+            } }
+
+
+
+        private static void SeedKorisniciUloge(EFoodContext context)
+        {
+            if (!context.KorisniciUloges.Any())
+            {
+                var korisnik1 = context.Korisnicis.FirstOrDefault(k => k.KorisnickoIme == "admin");
+                var korisnik2 = context.Korisnicis.FirstOrDefault(k => k.KorisnickoIme == "mobile");
+
+                if (korisnik1 != null && korisnik2 != null)
+                {
+                    context.KorisniciUloges.AddRange(
+                        new KorisniciUloge
+                        {
+                           // KorisnikUlogaId = 1,
+                            KorisnikId = korisnik1.Id,
+                            UlogaId = 1, // Admin
+                            DatumIzmjene = DateTime.Now
+                        },
+                        new KorisniciUloge
+                        {
+                            //KorisnikUlogaId = 2,
+                            KorisnikId = korisnik2.Id,
+                            UlogaId = 2, // Korisnik
+                            DatumIzmjene = DateTime.Now
+                        }
+                    );
+                    context.SaveChanges();
+                }
+            }
+        }
+
+        //Dodavanje narudzba
+        private static void SeedNarudzbe(EFoodContext context)
+        {
+            if (!context.Narudzbas.Any())
+            {
+                context.Narudzbas.Add(new Narudzba
+                {
+                    
+                    DatumNarudzbe = DateTime.Now,
+                    StatusNarudzbeId = 5,
+                    KorisnikId = 1,
+                    StateMachine = "poslano"
+                });
+                context.SaveChanges();
+            }
+        }
+
+
+
+        private static void SeedStavkeNarudzbe(EFoodContext context)
+        {
+            if (!context.StavkeNarudzbes.Any())
+            {
+                var narudzba = context.Narudzbas.FirstOrDefault(n => n.StateMachine == "poslano");
+                var jelo = context.Jelos.FirstOrDefault(j => j.Naziv == "Funghi");
+
+                if (narudzba != null && jelo != null)
+                {
+                    context.StavkeNarudzbes.Add(new StavkeNarudzbe
+                    {
+                        Kolicina = 2,
+                        Cijena = 30,
+                        JeloId = jelo.JeloId,
+                        NarudzbaId = narudzba.Id
+                    });
+                    context.SaveChanges();
+                }
+            }
+        }
+
+
+        // Dodavanje Recenzija
+        private static void SeedDojmovi(EFoodContext context)
+        {
+            if (!context.Dojmovis.Any())
+            {
+                try
+                {
+                    context.Dojmovis.AddRange(
+                        new Dojmovi()
+                        {
+                           
+                            Ocjena = 5,
+                            Opis = "odlicna dostava",
+                            JeloId = 1,
+                            KorisnikId = 2,
+                        },
+                          new Dojmovi()
+                          {
+                              
+                              Ocjena = 2,
+                              Opis = "Brza dostava, hrana topla i ukusna!",
+                              JeloId = 1,
+                              KorisnikId = 2,
+                          },
+                           new Dojmovi()
+                           {
+                             
+                               Ocjena = 2,
+                               Opis = "Brza dostava, hrana topla i ukusna!",
+                               JeloId = 1,
+                               KorisnikId = 2,
+                           },
+                            new Dojmovi()
+                            {
+                                
+                                Ocjena = 5,
+                                Opis = "odlicna dostava",
+                                JeloId = 1,
+                                KorisnikId = 2,
+                            },
+                             new Dojmovi()
+                             {
+                                
+                                 Ocjena = 3,
+                                 Opis = "dostava ok",
+                                 JeloId = 1,
+                                 KorisnikId = 2,
+                             },
+                              new Dojmovi()
+                              {
+                                 
+                                  Ocjena = 3,
+                                  Opis = "dostava ok",
+                                  JeloId = 1,
+                                  KorisnikId = 2,
+                              },
+                               new Dojmovi()
+                               {
+                                  
+                                   Ocjena = 2,
+                                   Opis = "odlicna dostava",
+                                   JeloId = 1,
+                                   KorisnikId = 2,
+                               },
+                               new Dojmovi()
+                               {
+                                 
+                                   Ocjena = 2,
+                                   Opis = "odlicna dostava",
+                                   JeloId = 1,
+                                   KorisnikId = 1,
+                               },
+                               new Dojmovi()
+                               {
+                                   
+                                   Ocjena = 5,
+                                   Opis = "odlicna dostava",
+                                   JeloId = 1,
+                                   KorisnikId = 1,
+                               },
+                               new Dojmovi()
+                               {
+                                   Ocjena = 4,
+                                   Opis = "odlicna dostava",
+                                   JeloId = 1,
+                                   KorisnikId = 1,
+                               },
+                               new Dojmovi()
+                               {
+                                   
+                                   Ocjena = 3,
+                                   Opis = "dostava",
+                                   JeloId = 1,
+                                   KorisnikId = 1,
+                               },
+                               new Dojmovi()
+                               {
+                                   
+                                   Ocjena = 5,
+                                   Opis = "odlicna dostava",
+                                   JeloId = 1,
+                                   KorisnikId = 3,
+                               },
+                                new Dojmovi()
+                                {
+                                    
+                                    Ocjena = 5,
+                                    Opis = "odlicna dostava",
+                                    JeloId = 1,
+                                    KorisnikId = 3,
+                                },
+                                 new Dojmovi()
+                                 {
+                                     
+                                     Ocjena = 5,
+                                     Opis = "odlicna dostava",
+                                     JeloId = 1,
+                                     KorisnikId = 3,
+                                 },
+                                  new Dojmovi()
+                                  {
+                                      
+                                      Ocjena = 4,
+                                      Opis = "odlicna dostava",
+                                      JeloId = 1,
+                                      KorisnikId = 3,
+                                  },
+                                  new Dojmovi()
+                                  {
+                                     
+                                      Ocjena = 5,
+                                      Opis = "brza dostava",
+                                      JeloId = 2,
+                                      KorisnikId = 3,
+                                  },
+                                  new Dojmovi()
+                                  {
+                                      
+                                      Ocjena = 2,
+                                      Opis = "odlicna dostava",
+                                      JeloId = 2,
+                                      KorisnikId = 3,
+                                  },
+                                  new Dojmovi()
+                                  {
+                                      
+                                      Ocjena = 2,
+                                      Opis = "odlicna dostava",
+                                      JeloId = 2,
+                                      KorisnikId = 3,
+                                  },
+                                  new Dojmovi()
+                                  {
+                                      
+                                      Ocjena = 5,
+                                      Opis = "odlicna dostava",
+                                      JeloId = 2,
+                                      KorisnikId = 3,
+                                  },
+                                  new Dojmovi()
+                                  {
+                                     
+                                      Ocjena = 5,
+                                      Opis = "odlicna dostava",
+                                      JeloId = 3,
+                                      KorisnikId = 1,
+                                  },
+                                   new Dojmovi()
+                                   {
+                                       
+                                       Ocjena = 5,
+                                       Opis = "odlicna dostava",
+                                       JeloId = 4,
+                                       KorisnikId = 2,
+                                   },
+                                    new Dojmovi()
+                                    {
+                                       
+                                        Ocjena = 4,
+                                        Opis = "odlicna dostava",
+                                        JeloId = 3,
+                                        KorisnikId = 1,
+                                    },
+                                     new Dojmovi()
+                                     {
+                                        
+                                         Ocjena = 3,
+                                         Opis = "odlicna dostava",
+                                         JeloId = 3,
+                                         KorisnikId = 2,
+                                     },
+                                      new Dojmovi()
+                                      {
+                                         
+                                          Ocjena = 5,
+                                          Opis = "odlicna dostava",
+                                          JeloId = 4,
+                                          KorisnikId = 1,
+                                      },
+                                       new Dojmovi()
+                                       {
+                                          
+                                           Ocjena = 5,
+                                           Opis = "odlicna dostava",
+                                           JeloId = 5,
+                                           KorisnikId = 1,
+                                       },
+                                        new Dojmovi()
+                                        {
+                                            Ocjena = 3,
+                                            Opis = "odlicna dostava",
+                                            JeloId = 5,
+                                            KorisnikId = 1,
+                                        },
+                                         new Dojmovi()
+                                         {
+                                             Ocjena = 4,
+                                             Opis = "odlicna dostava",
+                                             JeloId = 5,
+                                             KorisnikId = 2,
+                                         },
+                                          new Dojmovi()
+                                          {
+                                             
+                                              Ocjena = 2,
+                                              Opis = "odlicna dostava",
+                                              JeloId = 5,
+                                              KorisnikId = 2,
+                                          },
+                                           new Dojmovi()
+                                           {
+                                              
+                                               Ocjena = 5,
+                                               Opis = "odlicna dostava",
+                                               JeloId = 5,
+                                               KorisnikId = 3,
+                                           }
+
+                    );
+                    context.SaveChanges();
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine($"Error adding baskets: {ex.Message}");
+                }
+            }
+        }
+        //Dodavanje jela
+        private static void SeedJela(EFoodContext context)
+        {
+            var slikaJelo = Convert.FromBase64String("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");
+
+            if (context.Jelos.Any())
+                return;
+
+            // Pronadji kategorije po nazivu (ili ID ako znaš da već postoje)
+            var pizza = context.Kategorijas.FirstOrDefault(k => k.Naziv == "Pizza");
+            var rostilj = context.Kategorijas.FirstOrDefault(k => k.Naziv == "Rostilj");
+            var sendvici = context.Kategorijas.FirstOrDefault(k => k.Naziv == "Sendvici");
+            var desert = context.Kategorijas.FirstOrDefault(k => k.Naziv == "Desert");
+
+            if (pizza == null || rostilj == null || sendvici == null || desert == null)
+            {
+                Console.WriteLine("⚠️ Neke kategorije nisu pronađene. Preskačem dodavanje jela.");
+                return;
+            }
+
+            var jela = new List<Jelo>
+    {
+        new Jelo
+        {
+            Naziv = "Capricciosa",
+            Opis = "top",
+            Cijena = 17,
+            Slika =slikaJelo,
+            KategorijaId = pizza.KategorijaId,
+            StateMachine = "active",
+        },
+        new Jelo
+        {
+            Naziv = "Funghi",
+            Opis = "top",
+            Cijena = 20,
+            KategorijaId = pizza.KategorijaId,
+            StateMachine = "active",
+        },
+        new Jelo
+        {
+            Naziv = "Baklava",
+            Opis = "top",
+            Cijena = 5,
+            KategorijaId = desert.KategorijaId,
+            StateMachine = "active",
+        },
+        new Jelo
+        {
+            Naziv = "Cevapi",
+            Opis = "top",
+            Cijena = 15,
+            KategorijaId = rostilj.KategorijaId,
+            StateMachine = "cancelled",
+        },
+        new Jelo
+        {
+            Naziv = "Tost",
+            Opis = "top",
+            Cijena = 15,
+            KategorijaId = sendvici.KategorijaId,
+            StateMachine = "active",
+        }
+    };
+
+            context.Jelos.AddRange(jela);
+            context.SaveChanges();
+
+            Console.WriteLine("✅ Uspješno dodana početna jela u bazu.");
+        }
+        // Dodavanje Korpi
+        private static void SeedKorpe(EFoodContext context)
+        {
+            if (!context.Korpas.Any())
+            {
+                context.Korpas.Add(new Korpa
+                {
+                    
+                    JeloId = 1,
+                    KorisnikId = 2,
+                    Kolicina = 2,
+                    Cijena = 30,
+                    KategorijaId = 1,
+                    PrilogId = 1
+                });
+                context.SaveChanges();
+            }
+        }
+        private static void SeedKategorije(EFoodContext context)
+        {
+            if (!context.Kategorijas.Any())
+            {
+                var kategorije = new List<Kategorija>
+        {
+            new Kategorija { Naziv = "Pizza", Opis = "top" },
+            new Kategorija { Naziv = "Rostilj", Opis = "top" },
+            new Kategorija { Naziv = "Sendvici", Opis = "top" },
+            new Kategorija { Naziv = "Desert", Opis = "top" }
+        };
+
+                context.Kategorijas.AddRange(kategorije);
+                context.SaveChanges();
+                Console.WriteLine(">>> Dodane kategorije <<<");
+            }
+        }
+        private static void SeedStatusNarudzbe(EFoodContext context)
+        {
+            if (!context.Statuses.Any()) // ako nema zapisa u tabeli Status
+            {
+                context.Statuses.Add(new Status
+                {
+                    
+                    Naziv = "poslano"
+                });
+
+                context.SaveChanges();
+                Console.WriteLine(">>> Dodan status narudzbe <<<");
+            }
+        }
+
+        private static void SeedPrilozi(EFoodContext context)
+        {
+            if (!context.Prilozis.Any()) // ako tabela Prilozi nema zapisa
+            {
+                context.Prilozis.AddRange(
+                    new Prilozi
+                    {
+                        
+                        NazivPriloga = "Kečap"
+                    },
+                    new Prilozi
+                    {
+                        
+                        NazivPriloga = "Ajvar"
+                    }
+                );
+
+                context.SaveChanges();
+                Console.WriteLine(">>> Dodani prilozi <<<");
+            }
+        }
+        private static void SeedUloge(EFoodContext context)
+        {
+            if (!context.Uloges.Any())
+            {
+                context.Uloges.AddRange(
+                    new Uloge {  Naziv = "Admin", Opis = "Upravljanje sistemom" },
+                    new Uloge { Naziv = "Korisnik", Opis = "Pregled podataka" }
+                );
+                context.SaveChanges();
+                Console.WriteLine(">>> Dodane uloge <<<");
+            }
+        }
+
+        private static void SeedDrzave(EFoodContext context)
+        {
+            if (!context.Drzavas.Any())
+            {
+                context.Drzavas.AddRange(
+                    new Drzava {  Naziv = "Bosna i Hercegovina" },
+                    new Drzava {  Naziv = "Italija" }
+                );
+                context.SaveChanges();
+                Console.WriteLine(">>> Dodane države <<<");
+            }
+        }
+
+        private static void SeedGradove(EFoodContext context)
+        {
+            if (!context.Grads.Any())
+            {
+                context.Grads.AddRange(
+                    new Grad {  Naziv = "Mostar", DrzavaId =1 },
+                    new Grad {  Naziv = "Sarajevo", DrzavaId = 1 }
+                );
+                context.SaveChanges();
+                Console.WriteLine(">>> Dodani gradovi <<<");
+            }
+        }
+
+        private static void SeedRestorani(EFoodContext context)
+        {
+            if (!context.Restorans.Any())
+            {
+                context.Restorans.Add(
+                    new Restoran
+                    {
+                        //RestoranId = 3111,
+                        NazivRestorana = "eFood",
+                        Adresa = "Mostar",
+                        Email = "efood@gmail.com",
+                        Telefon = "036543345",
+                        GradId = 2
+                    }
+                );
+                context.SaveChanges();
+                Console.WriteLine(">>> Dodan restoran <<<");
+            }
+        }
+
+       
+
+    
+
+
+        private static string GenerateSalt()
+        {
+            var buf = new byte[16];
+            (new RNGCryptoServiceProvider()).GetBytes(buf);
+            return Convert.ToBase64String(buf);
+        }
+
+        private static string GenerateHash(string salt, string password)
+        {
+            byte[] src = Convert.FromBase64String(salt);
+            byte[] bytes = Encoding.Unicode.GetBytes(password);
+            byte[] dst = new byte[src.Length + bytes.Length];
+            Buffer.BlockCopy(src, 0, dst, 0, src.Length);
+            Buffer.BlockCopy(bytes, 0, dst, src.Length, bytes.Length);
+            HashAlgorithm algorithm = HashAlgorithm.Create("SHA1");
+            byte[] inArray = algorithm.ComputeHash(dst);
+            return Convert.ToBase64String(inArray);
+        }
+    }
+}

@@ -1,0 +1,10 @@
+C:\Users\HOME\Desktop\Razvoj softvera 2\eFood\eFood.Model\bin\Debug\netstandard2.1\eFood.Model.deps.json
+C:\Users\HOME\Desktop\Razvoj softvera 2\eFood\eFood.Model\bin\Debug\netstandard2.1\eFood.Model.dll
+C:\Users\HOME\Desktop\Razvoj softvera 2\eFood\eFood.Model\bin\Debug\netstandard2.1\eFood.Model.pdb
+C:\Users\HOME\Desktop\Razvoj softvera 2\eFood\eFood.Model\obj\Debug\netstandard2.1\eFood.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Razvoj softvera 2\eFood\eFood.Model\obj\Debug\netstandard2.1\eFood.Model.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Razvoj softvera 2\eFood\eFood.Model\obj\Debug\netstandard2.1\eFood.Model.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Razvoj softvera 2\eFood\eFood.Model\obj\Debug\netstandard2.1\eFood.Model.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Razvoj softvera 2\eFood\eFood.Model\obj\Debug\netstandard2.1\eFood.Model.dll
+C:\Users\HOME\Desktop\Razvoj softvera 2\eFood\eFood.Model\obj\Debug\netstandard2.1\eFood.Model.pdb
+C:\Users\HOME\Desktop\Razvoj softvera 2\eFood\eFood.Model\obj\Debug\netstandard2.1\eFood.Model.csproj.AssemblyReference.cache

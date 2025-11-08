@@ -1,0 +1,2066 @@
+[
+  {
+    "ContainingType": "eFood.API.Controllers.BaseCRUDController\u00604[[eFood.Model.Dojmovi, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.DojmoviSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.DojmoviInsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.DojmoviUpsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Insert",
+    "RelativePath": "Dojmovi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "insert",
+        "Type": "eFood.Model.Requests.DojmoviInsertRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Dojmovi",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseController\u00602[[eFood.Model.Dojmovi, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.DojmoviSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Get",
+    "RelativePath": "Dojmovi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Opis",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Page",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.PagedResult\u00601[[eFood.Model.Dojmovi, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseCRUDController\u00604[[eFood.Model.Dojmovi, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.DojmoviSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.DojmoviInsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.DojmoviUpsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "Dojmovi/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "update",
+        "Type": "eFood.Model.Requests.DojmoviUpsertRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Dojmovi",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseCRUDController\u00604[[eFood.Model.Dojmovi, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.DojmoviSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.DojmoviInsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.DojmoviUpsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "Dojmovi/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Dojmovi",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseController\u00602[[eFood.Model.Dojmovi, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.DojmoviSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "Dojmovi/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Dojmovi",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseController\u00602[[eFood.Model.Drzava, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.DrzavaSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Get",
+    "RelativePath": "Drzava",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Naziv",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Page",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.PagedResult\u00601[[eFood.Model.Drzava, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseController\u00602[[eFood.Model.Drzava, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.DrzavaSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "Drzava/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Drzava",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseController\u00602[[eFood.Model.Grad, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.GradSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Get",
+    "RelativePath": "Grad",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Naziv",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Page",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.PagedResult\u00601[[eFood.Model.Grad, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseController\u00602[[eFood.Model.Grad, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.GradSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "Grad/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Grad",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseCRUDController\u00604[[eFood.Model.Jelo, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.JeloSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.JeloUpsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.JeloUpsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Insert",
+    "RelativePath": "Jelo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "insert",
+        "Type": "eFood.Model.Requests.JeloUpsertRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Jelo",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseController\u00602[[eFood.Model.Jelo, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.JeloSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Get",
+    "RelativePath": "Jelo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Naziv",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "KategorijaNaziv",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "KategorijaId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Page",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.PagedResult\u00601[[eFood.Model.Jelo, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseCRUDController\u00604[[eFood.Model.Jelo, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.JeloSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.JeloUpsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.JeloUpsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "Jelo/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "update",
+        "Type": "eFood.Model.Requests.JeloUpsertRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Jelo",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseCRUDController\u00604[[eFood.Model.Jelo, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.JeloSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.JeloUpsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.JeloUpsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "Jelo/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Jelo",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseController\u00602[[eFood.Model.Jelo, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.JeloSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "Jelo/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Jelo",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.JeloController",
+    "Method": "GetPreporucenaJela",
+    "RelativePath": "Jelo/preporuceno",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "korisnikId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[eFood.Model.Jelo, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.KategorijaController",
+    "Method": "Insert",
+    "RelativePath": "Kategorija",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "insert",
+        "Type": "eFood.Model.Requests.KategorijaInsertRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Kategorija",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseController\u00602[[eFood.Model.Kategorija, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KategorijaSearchRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Get",
+    "RelativePath": "Kategorija",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Naziv",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Page",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.PagedResult\u00601[[eFood.Model.Kategorija, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseCRUDController\u00604[[eFood.Model.Kategorija, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KategorijaSearchRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KategorijaInsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KategorijaUpdateRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "Kategorija/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "update",
+        "Type": "eFood.Model.Requests.KategorijaUpdateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Kategorija",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseCRUDController\u00604[[eFood.Model.Kategorija, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KategorijaSearchRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KategorijaInsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KategorijaUpdateRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "Kategorija/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Kategorija",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseController\u00602[[eFood.Model.Kategorija, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KategorijaSearchRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "Kategorija/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Kategorija",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseCRUDController\u00604[[eFood.Model.KorisniciUloge, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.KorisniciUlogaSearchRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KorisniciUlogeInsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KorisniciUlogeUpdateRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Insert",
+    "RelativePath": "KorisniciUloga",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "insert",
+        "Type": "eFood.Model.Requests.KorisniciUlogeInsertRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.KorisniciUloge",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseController\u00602[[eFood.Model.KorisniciUloge, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.KorisniciUlogaSearchRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Get",
+    "RelativePath": "KorisniciUloga",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "KorisnikId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "UlogaId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Page",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.PagedResult\u00601[[eFood.Model.KorisniciUloge, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseCRUDController\u00604[[eFood.Model.KorisniciUloge, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.KorisniciUlogaSearchRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KorisniciUlogeInsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KorisniciUlogeUpdateRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "KorisniciUloga/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "update",
+        "Type": "eFood.Model.Requests.KorisniciUlogeUpdateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.KorisniciUloge",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseCRUDController\u00604[[eFood.Model.KorisniciUloge, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.KorisniciUlogaSearchRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KorisniciUlogeInsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KorisniciUlogeUpdateRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "KorisniciUloga/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.KorisniciUloge",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseController\u00602[[eFood.Model.KorisniciUloge, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.KorisniciUlogaSearchRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "KorisniciUloga/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.KorisniciUloge",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.KorisnikController",
+    "Method": "Insert",
+    "RelativePath": "Korisnik",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "insert",
+        "Type": "eFood.Model.Requests.KorisnikInsertRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Korisnik",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseController\u00602[[eFood.Model.Korisnik, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KorisnikSearchRequests, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Get",
+    "RelativePath": "Korisnik",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "IsUlogeIncluded",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "Page",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.PagedResult\u00601[[eFood.Model.Korisnik, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseCRUDController\u00604[[eFood.Model.Korisnik, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KorisnikSearchRequests, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KorisnikInsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KorisnikUpsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "Korisnik/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "update",
+        "Type": "eFood.Model.Requests.KorisnikUpsertRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Korisnik",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseCRUDController\u00604[[eFood.Model.Korisnik, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KorisnikSearchRequests, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KorisnikInsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KorisnikUpsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "Korisnik/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Korisnik",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseController\u00602[[eFood.Model.Korisnik, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KorisnikSearchRequests, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "Korisnik/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Korisnik",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.KorisnikController",
+    "Method": "Authenticate",
+    "RelativePath": "Korisnik/Authenticate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Korisnik",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.KorisnikController",
+    "Method": "Login",
+    "RelativePath": "Korisnik/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Korisnik",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.KorisnikController",
+    "Method": "Register",
+    "RelativePath": "Korisnik/registration",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "prezime",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Korisnik",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseCRUDController\u00604[[eFood.Model.Korpa, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KorpaSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KorpaInsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KorpaUpdateRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Insert",
+    "RelativePath": "Korpa",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "insert",
+        "Type": "eFood.Model.Requests.KorpaInsertRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Korpa",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseController\u00602[[eFood.Model.Korpa, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KorpaSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Get",
+    "RelativePath": "Korpa",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "IsJeloIncluded",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "Page",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.PagedResult\u00601[[eFood.Model.Korpa, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseCRUDController\u00604[[eFood.Model.Korpa, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KorpaSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KorpaInsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KorpaUpdateRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "Korpa/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "update",
+        "Type": "eFood.Model.Requests.KorpaUpdateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Korpa",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseCRUDController\u00604[[eFood.Model.Korpa, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KorpaSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KorpaInsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KorpaUpdateRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "Korpa/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Korpa",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseController\u00602[[eFood.Model.Korpa, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.KorpaSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "Korpa/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Korpa",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseCRUDController\u00604[[eFood.Model.Narudzba, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.NarudzbaSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.NarudzbaInsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.NarudzbaUpdateRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Insert",
+    "RelativePath": "Narudzba",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "insert",
+        "Type": "eFood.Model.Requests.NarudzbaInsertRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Narudzba",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseController\u00602[[eFood.Model.Narudzba, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.NarudzbaSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Get",
+    "RelativePath": "Narudzba",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "DatumNarudzbe",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "StatusNarudzbeId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "KorisnikId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Page",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.PagedResult\u00601[[eFood.Model.Narudzba, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseCRUDController\u00604[[eFood.Model.Narudzba, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.NarudzbaSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.NarudzbaInsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.NarudzbaUpdateRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "Narudzba/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "update",
+        "Type": "eFood.Model.Requests.NarudzbaUpdateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Narudzba",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseCRUDController\u00604[[eFood.Model.Narudzba, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.NarudzbaSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.NarudzbaInsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.NarudzbaUpdateRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "Narudzba/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Narudzba",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseController\u00602[[eFood.Model.Narudzba, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.NarudzbaSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "Narudzba/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Narudzba",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.NarudzbaController",
+    "Method": "Activate",
+    "RelativePath": "Narudzba/{id}/activate",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Narudzba",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.NarudzbaController",
+    "Method": "AllowedActions",
+    "RelativePath": "Narudzba/{id}/allowedActions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.NarudzbaController",
+    "Method": "Hide",
+    "RelativePath": "Narudzba/{id}/hide",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Narudzba",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.NarudzbaController",
+    "Method": "Checkout",
+    "RelativePath": "Narudzba/checkout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "eFood.Model.Requests.NarudzbaCheckoutRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.NarudzbaController",
+    "Method": "CheckoutFromCart",
+    "RelativePath": "Narudzba/checkoutFromCart",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "eFood.Model.Requests.CheckoutFromCartRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseController\u00602[[eFood.Model.Prilozi, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.PriloziSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Get",
+    "RelativePath": "Prilozi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "NazivPriloga",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Page",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.PagedResult\u00601[[eFood.Model.Prilozi, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseController\u00602[[eFood.Model.Prilozi, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.PriloziSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "Prilozi/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Prilozi",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseCRUDController\u00604[[eFood.Model.Restoran, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.BaseSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.RestoranInsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.RestoranUpdateRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Insert",
+    "RelativePath": "Restoran",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "insert",
+        "Type": "eFood.Model.Requests.RestoranInsertRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Restoran",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseController\u00602[[eFood.Model.Restoran, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.BaseSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Get",
+    "RelativePath": "Restoran",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Page",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.PagedResult\u00601[[eFood.Model.Restoran, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseCRUDController\u00604[[eFood.Model.Restoran, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.BaseSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.RestoranInsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.RestoranUpdateRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "Restoran/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "update",
+        "Type": "eFood.Model.Requests.RestoranUpdateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Restoran",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseCRUDController\u00604[[eFood.Model.Restoran, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.BaseSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.RestoranInsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.RestoranUpdateRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "Restoran/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Restoran",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseController\u00602[[eFood.Model.Restoran, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.BaseSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "Restoran/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Restoran",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseController\u00602[[eFood.Model.StatusNarudzbe, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.StatusNarudzbeSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Get",
+    "RelativePath": "StatusNarudzbe",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Naziv",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Page",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.PagedResult\u00601[[eFood.Model.StatusNarudzbe, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseController\u00602[[eFood.Model.StatusNarudzbe, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.StatusNarudzbeSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "StatusNarudzbe/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.StatusNarudzbe",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseCRUDController\u00604[[eFood.Model.StavkeNarudzbe, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.StavkeNarudzbeSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.StavkeNarudzbeInsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.StavkeNarudzbeUpdateRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Insert",
+    "RelativePath": "StavkeNarudzbe",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "insert",
+        "Type": "eFood.Model.Requests.StavkeNarudzbeInsertRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.StavkeNarudzbe",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseController\u00602[[eFood.Model.StavkeNarudzbe, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.StavkeNarudzbeSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Get",
+    "RelativePath": "StavkeNarudzbe",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "JeloId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "NarudzbaId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "KorisnikId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Page",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.PagedResult\u00601[[eFood.Model.StavkeNarudzbe, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseCRUDController\u00604[[eFood.Model.StavkeNarudzbe, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.StavkeNarudzbeSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.StavkeNarudzbeInsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.StavkeNarudzbeUpdateRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "StavkeNarudzbe/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "update",
+        "Type": "eFood.Model.Requests.StavkeNarudzbeUpdateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.StavkeNarudzbe",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseCRUDController\u00604[[eFood.Model.StavkeNarudzbe, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.StavkeNarudzbeSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.StavkeNarudzbeInsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.StavkeNarudzbeUpdateRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "StavkeNarudzbe/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.StavkeNarudzbe",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseController\u00602[[eFood.Model.StavkeNarudzbe, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.StavkeNarudzbeSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "StavkeNarudzbe/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.StavkeNarudzbe",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseController\u00602[[eFood.Model.Uloge, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.UlogeSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Get",
+    "RelativePath": "Uloga",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Naziv",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Page",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.PagedResult\u00601[[eFood.Model.Uloge, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseController\u00602[[eFood.Model.Uloge, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.UlogeSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "Uloga/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Uloge",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseCRUDController\u00604[[eFood.Model.Uplata, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.UplataSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.UplataInsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.UplateUpdateRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Insert",
+    "RelativePath": "Uplata",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "insert",
+        "Type": "eFood.Model.Requests.UplataInsertRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Uplata",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseController\u00602[[eFood.Model.Uplata, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.UplataSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Get",
+    "RelativePath": "Uplata",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "KorisnikId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Page",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.PagedResult\u00601[[eFood.Model.Uplata, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseCRUDController\u00604[[eFood.Model.Uplata, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.UplataSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.UplataInsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.UplateUpdateRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "Uplata/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "update",
+        "Type": "eFood.Model.Requests.UplateUpdateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Uplata",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseCRUDController\u00604[[eFood.Model.Uplata, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.UplataSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.UplataInsertRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.Requests.UplateUpdateRequest, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "Uplata/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Uplata",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.BaseController\u00602[[eFood.Model.Uplata, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[eFood.Model.SearchObjects.UplataSearchObject, eFood.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "Uplata/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eFood.Model.Uplata",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eFood.API.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[eFood.API.WeatherForecast, eFood.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
